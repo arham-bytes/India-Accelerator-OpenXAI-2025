@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pandas
+numpy
+pillow
+python-dotenv
+sqlmodel
+passlib[bcrypt]
+pyjwt
+scikit-learn
+tensorflow>=2.11
